@@ -1,0 +1,8 @@
+{
+  "@e-board/board-plugin-fps": {
+    "version": "0.0.1",
+    "enabled": true,
+    "src": "https://cdn.jsdelivr.net/gh/EGyoung/Juyoung-cdn@main/e-board-plugins/board-fps-plugin/board-plugin-fps.min.js",
+    "name": "FPSPlugin"
+  }
+}
